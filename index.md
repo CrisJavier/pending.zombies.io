@@ -37,6 +37,8 @@ Please zoom in to get a clearer view of our taskboard!
 
 ## The Game
 
+At the moment, to get the full intended experience, please make sure to click on the fullscreen button or go into options and enable fullscreen!
+
 https://dustpending.github.io/pending.zombies.io/
 
 ## Dev Diary
