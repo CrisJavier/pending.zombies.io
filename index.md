@@ -4,6 +4,7 @@
 - [Overview](#overview)
 - [Development](#development)
 - [Dev Diary](#dev-diary)
+- [The Game](#the-game)
 - [Meet the Developers](#meet-the-developers)
 
 
@@ -34,6 +35,10 @@ Shooting in games is done in one of two ways. They either use raycasts or spawn 
 
 Please zoom in to get a clearer view of our taskboard!
 
+## The Game
+
+https://dustpending.github.io/pending.zombies.io/
+
 ## Dev Diary
 
 ### Cris Javier
@@ -55,6 +60,6 @@ It's been a challenging experience working on An Answer to the Dust, but also an
 ## Meet the Developers
 
 - [Cris Javier](https://crisjavier.github.io/)
-- [Justin Yip]([github-link](https://github.com/jyip808))
+- [Justin Yip](https://jyip808.github.io/)
 - [Billy Kane](link-to-somewhere)
-- [Kaiwi Akioka]([github-link](https://github.com/Kakioka))
+- [Kaiwi Akioka](https://kakioka.github.io/)
