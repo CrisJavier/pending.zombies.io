@@ -31,11 +31,11 @@ Shooting in games is done in one of two ways. They either use raycasts or spawn 
 
 ### Work Distribution & Task Management
 
-2/15/2023
+#### 2/15/2023
 
 ![](images/canvas-zombie.png)
 
-3/18/2023
+#### 3/18/2023
 
 ![](images/tasklist2.png)
 
