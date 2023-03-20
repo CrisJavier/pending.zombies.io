@@ -2,7 +2,7 @@
 
 ---
 <a href=""><button>Home</button></a>
-<a href="projects.md"><button>The Game</button></a>
+<a href="https://dustpending.github.io/pending.zombies.io/"><button>The Game</button></a>
 <a href="contact-us"><button>Meet The Developers</button></a>
 ---
 
