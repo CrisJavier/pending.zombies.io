@@ -1,7 +1,7 @@
 # An Answer for the Dust
 
 ---
-<a href=https://crisjavier.github.io/pending.zombies.io/><button>Home</button></a>
+<a href="/"/><button>Home</button></a>
 <a href="https://dustpending.github.io/pending.zombies.io/"><button>The Game</button></a>
 <a href="contact-us"><button>Meet The Developers</button></a>
 ---
@@ -72,10 +72,3 @@ Working on An Answer to the Dust has been a dream come true for me. As a lifelon
 ### Kaiwi Akioka
 
 It's been a challenging experience working on An Answer to the Dust, but also an incredibly rewarding one. From the early stages of development to the final push towards release, it's been inspiring to see the game take shape and become something truly special. The attention to detail and dedication of the team is truly impressive, and I feel fortunate to be working alongside such talented individuals. The long hours and hard work have been worth it, and I'm excited to see how the game is received by players when it finally hits the market.
----
-<style>
-  .footer {
-    display: none;
-  }
-</style>
----
