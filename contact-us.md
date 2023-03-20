@@ -9,7 +9,7 @@ title: Meet the Developers!
 ## The Team
 
 ### Justin Yip
-![](https://cdn.discordapp.com/attachments/1065461565098315846/1087260595126009906/IMG_59.jpg = 250x250)
+![](images/justin.jpg)
 
 Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoys music from the 70’s and 80’s. Occasionally draws and composes music when not working on a game.
 
