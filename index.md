@@ -7,6 +7,7 @@
 - [The Game](#the-game)
 - [Meet the Developers](#meet-the-developers)
 
+[a relative link](contact-us.md)
 
 ## Overview
 
