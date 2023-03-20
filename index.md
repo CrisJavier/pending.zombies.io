@@ -1,7 +1,7 @@
 # An Answer for the Dust
 
 ---
-<a href="/"/><button>Home</button></a>
+<a href="https://crisjavier.github.io/pending.zombies.io/"/><button>Home</button></a>
 <a href="https://dustpending.github.io/pending.zombies.io/"><button>The Game</button></a>
 <a href="contact-us"><button>Meet The Developers</button></a>
 ---
