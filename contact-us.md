@@ -28,7 +28,7 @@ I am an aspiring functional adult who's main focus at the moment is graduating t
 <br>
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://kakioka.github.io/)
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/changeme/)'
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/changeme/)
 
 ### Cris Javier
 
@@ -42,3 +42,8 @@ Meet our talented programmer who is a crucial member of our development team! Wi
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisj?original_referer=)
 
+### William Kane
+
+A talented artist and sprite designer, who brings their passion for video games and art to our development team. With their keen eye for detail and creative flair, they are responsible for designing and creating the amazing graphics and sprites that bring our games to life. Their ability to translate complex ideas into stunning visuals has been invaluable to our team, and their work has earned them a reputation as a true artist in the industry. Whether it's crafting intricate character designs or creating vibrant backgrounds, our artist and sprite designer never fails to deliver exceptional work that exceeds our expectations. We're lucky to have them on our team and look forward to seeing the incredible creations they will bring to our future projects.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wkkane@hawaii.edu)
