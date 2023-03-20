@@ -10,7 +10,9 @@
 - [The Game](#the-game)
 - [Meet the Developers](#meet-the-developers)
 
-
+[Home](index.md){: .btn }
+[Projects](projects.md){: .btn }
+[About](about.md){: .btn }
 
 ## Overview
 
