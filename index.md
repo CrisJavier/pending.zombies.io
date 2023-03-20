@@ -1,5 +1,8 @@
 # An Answer for the Dust
 
+## Different Pages
+- [Meet the Developers!](contact-us.md)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Development](#development)
@@ -7,7 +10,7 @@
 - [The Game](#the-game)
 - [Meet the Developers](#meet-the-developers)
 
-[a relative link](contact-us.md)
+
 
 ## Overview
 
@@ -66,9 +69,8 @@ Working on An Answer to the Dust has been a dream come true for me. As a lifelon
 
 It's been a challenging experience working on An Answer to the Dust, but also an incredibly rewarding one. From the early stages of development to the final push towards release, it's been inspiring to see the game take shape and become something truly special. The attention to detail and dedication of the team is truly impressive, and I feel fortunate to be working alongside such talented individuals. The long hours and hard work have been worth it, and I'm excited to see how the game is received by players when it finally hits the market.
 
-## Meet the Developers
-
-- [Cris Javier](https://crisjavier.github.io/)
-- [Justin Yip](https://jyip808.github.io/)
-- [Billy Kane](link-to-somewhere)
-- [Kaiwi Akioka](https://kakioka.github.io/)
+<style>
+  .footer {
+    display: none;
+  }
+</style>
