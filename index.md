@@ -10,10 +10,11 @@
 - [The Game](#the-game)
 - [Meet the Developers](#meet-the-developers)
 
-[Home](index.md){: .btn }
-[Projects](projects.md){: .btn }
-[About](about.md){: .btn }
-
+---
+<a href="index.md"><button>Home</button></a>
+<a href="projects.md"><button>Projects</button></a>
+<a href="about.md"><button>About</button></a>
+---
 ## Overview
 
 ### Synopsis
