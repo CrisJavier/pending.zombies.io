@@ -19,13 +19,13 @@ Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoy
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-yip-bb305421b?original_referer=)
 
-## Portfolios
+### Kuliakaiwikuamoo (Kaiwi) Akioka
+![](images/kaiwi.jpg)
 
-* [Cris Javier](https://crisjavier.github.io/)
-* [Justin Yip](https://jyip808.github.io/)
-* [Billy Kane](link-to-somewhere)
-* [Kaiwi Akioka](https://kakioka.github.io/)
+I am an aspiring functional adult who's main focus at the moment is graduating this semester. On the team I focus on boss design and helping where I can. I am also working with Justin on composing an OST. In my free time, I do judo and jiu jitsu, I also play games.
 
-## Contact Us
-
-* 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kakioka@hawaii.edu)
+<br>
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://kakioka.github.io/)
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/changeme/)
