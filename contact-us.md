@@ -34,7 +34,7 @@ I am an aspiring functional adult who's main focus at the moment is graduating t
 
 ![](images/cris.jpg)
 
-I am an aspiring functional adult who's main focus at the moment is graduating this semester. On the team I focus on boss design and helping where I can. I am also working with Justin on composing an OST. In my free time, I do judo and jiu jitsu, I also play games.
+Meet our talented programmer who is a crucial member of our development team! With a passion for all things Dungeons and Dragons, reading, and ramen, they bring a unique perspective to our projects. As the website developer and UI specialist, they are responsible for creating, monitoring, and updating our website, as well as ensuring that our game's user interface is intuitive and engaging. With their exceptional programming skills and attention to detail, our team is confident that we can continue to create amazing games that our players will love.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](crisj@hawaii.edu)
 <br>
