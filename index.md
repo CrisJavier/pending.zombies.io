@@ -1,9 +1,9 @@
 # An Answer for the Dust
 
 ---
-<a href="pending.zombies.io/"><button>Home</button></a>
+<a href=""><button>Home</button></a>
 <a href="projects.md"><button>Projects</button></a>
-<a href="pending.zombies.io/contact-us"><button>Meet The Developers</button></a>
+<a href="contact-us"><button>Meet The Developers</button></a>
 ---
 
 ## Different Pages
