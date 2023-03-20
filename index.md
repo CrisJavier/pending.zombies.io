@@ -1,5 +1,11 @@
 # An Answer for the Dust
 
+---
+<a href="index.md"><button>Home</button></a>
+<a href="projects.md"><button>Projects</button></a>
+<a href="contact-us.md"><button>Meet The Developers</button></a>
+---
+
 ## Different Pages
 - [Meet the Developers!](contact-us.md)
 
@@ -10,11 +16,6 @@
 - [The Game](#the-game)
 - [Meet the Developers](#meet-the-developers)
 
----
-<a href="index.md"><button>Home</button></a>
-<a href="projects.md"><button>Projects</button></a>
-<a href="about.md"><button>About</button></a>
----
 ## Overview
 
 ### Synopsis
